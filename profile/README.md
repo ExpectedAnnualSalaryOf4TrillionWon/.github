@@ -35,45 +35,47 @@
 <tr>
 <th align="center">메인 화면</th>
 <th align="center">소셜 로그인</th>
-<th align="center">필터링</th>
+<th align="center">마이 페이지</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="./images/메인화면.gif"><img src="./images/메인화면.gif" alt="MainPage1" style="width: 100%;"></a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="./images//소셜 로그인.gif"><img src="./images/소셜 로그인.gif" alt="Login1" style="width: 100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="./images/필터링.gif"><img src="./images/필터링.gif" alt="MainPage1" style="width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="./images/마이페이지.gifgif"><img src="./images/마이페이지.gif" alt="MainPage1" style="width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
 <table>
 <thead>
 <tr>
-
+<th align="center">필터링</th>
 <th align="center">찜하기</th>
-<th align="center">상세 페이지</th>
+<th align="center">찜 취소</th>
+
 </tr>
 </thead>
 <tbody>
 <tr>
-
-<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/98bbd4cd134b72cb7ff2794e164cc4507ddd5a4e895b3880e6e8e9360b6b4da4/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f4c674c6e794b347862696a5f536d4251645f39622d7a4b4c374e6a46426365584c467239376f2d53397a344a4d7737625a614f34453957355362774a6e5f784f4156753478436b3953653065715368665038596b7a6b614c2d51696c715661364c526151455135683450484c5a4f676d54385a427942562d6545495a457239443349316d42367175356e684965687570333931304679746e72513d7332303438"><img src="https://camo.githubusercontent.com/98bbd4cd134b72cb7ff2794e164cc4507ddd5a4e895b3880e6e8e9360b6b4da4/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f4c674c6e794b347862696a5f536d4251645f39622d7a4b4c374e6a46426365584c467239376f2d53397a344a4d7737625a614f34453957355362774a6e5f784f4156753478436b3953653065715368665038596b7a6b614c2d51696c715661364c526151455135683450484c5a4f676d54385a427942562d6545495a457239443349316d42367175356e684965687570333931304679746e72513d7332303438" alt="Login1" data-canonical-src="https://lh6.googleusercontent.com/LgLnyK4xbij_SmBQd_9b-zKL7NjFBceXLFr97o-S9z4JMw7bZaO4E9W5SbwJn_xOAVu4xCk9Se0eqShfP8YkzkaL-QilqVa6LRaQEQ5h4PHLZOgmT8ZByBV-eEIZEr9D3I1mB6qu5nhIehup3910FytnrQ=s2048" style="max-width: 100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/98bbd4cd134b72cb7ff2794e164cc4507ddd5a4e895b3880e6e8e9360b6b4da4/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f4c674c6e794b347862696a5f536d4251645f39622d7a4b4c374e6a46426365584c467239376f2d53397a344a4d7737625a614f34453957355362774a6e5f784f4156753478436b3953653065715368665038596b7a6b614c2d51696c715661364c526151455135683450484c5a4f676d54385a427942562d6545495a457239443349316d42367175356e684965687570333931304679746e72513d7332303438"><img src="https://camo.githubusercontent.com/98bbd4cd134b72cb7ff2794e164cc4507ddd5a4e895b3880e6e8e9360b6b4da4/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f4c674c6e794b347862696a5f536d4251645f39622d7a4b4c374e6a46426365584c467239376f2d53397a344a4d7737625a614f34453957355362774a6e5f784f4156753478436b3953653065715368665038596b7a6b614c2d51696c715661364c526151455135683450484c5a4f676d54385a427942562d6545495a457239443349316d42367175356e684965687570333931304679746e72513d7332303438" alt="Login1" data-canonical-src="https://lh6.googleusercontent.com/LgLnyK4xbij_SmBQd_9b-zKL7NjFBceXLFr97o-S9z4JMw7bZaO4E9W5SbwJn_xOAVu4xCk9Se0eqShfP8YkzkaL-QilqVa6LRaQEQ5h4PHLZOgmT8ZByBV-eEIZEr9D3I1mB6qu5nhIehup3910FytnrQ=s2048" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="./images/필터링.gif"><img src="./images/필터링.gif" alt="MainPage1" style="width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="./images/찜하기.gif"><img src="./images/찜하기.gif" alt="Login1" style="width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="./images/찜 취소.gif" style="width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
 <table>
 <thead>
 <tr>
+
 <th align="center">상품 등록</th>
-<th align="center">마이 페이지</th>
-<th align="center">상품 수정</th>
+<th align="center">상세 페이지</th>
+<th align="center">찜 취소</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7b221d575002a1f55cadea3406716a01a4ff2986bbb644d427969812c99a5315/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f4d37527861595f5a7346357351637169494f616664424748755647714b725130633037687a4f744c676b687859544b2d61524b5764686b4d66693844616f5a787944574c5a4b68645545444b424945704554636d325f7348354a645736396d724f587a41534d5159484645696150305162674345486135626e4b7a4954472d76397a746e3051666243655a747a6e4a38712d53446f32716f45413d7332303438"><img src="https://camo.githubusercontent.com/7b221d575002a1f55cadea3406716a01a4ff2986bbb644d427969812c99a5315/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f4d37527861595f5a7346357351637169494f616664424748755647714b725130633037687a4f744c676b687859544b2d61524b5764686b4d66693844616f5a787944574c5a4b68645545444b424945704554636d325f7348354a645736396d724f587a41534d5159484645696150305162674345486135626e4b7a4954472d76397a746e3051666243655a747a6e4a38712d53446f32716f45413d7332303438" alt="MainPage1" data-canonical-src="https://lh6.googleusercontent.com/M7RxaY_ZsF5sQcqiIOafdBGHuVGqKrQ0c07hzOtLgkhxYTK-aRKWdhkMfi8DaoZxyDWLZKhdUEDKBIEpETcm2_sH5JdW69mrOXzASMQYHFEiaP0QbgCEHa5bnKzITG-v9ztn0QfbCeZtznJ8q-SDo2qoEA=s2048" style="max-width: 100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/98bbd4cd134b72cb7ff2794e164cc4507ddd5a4e895b3880e6e8e9360b6b4da4/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f4c674c6e794b347862696a5f536d4251645f39622d7a4b4c374e6a46426365584c467239376f2d53397a344a4d7737625a614f34453957355362774a6e5f784f4156753478436b3953653065715368665038596b7a6b614c2d51696c715661364c526151455135683450484c5a4f676d54385a427942562d6545495a457239443349316d42367175356e684965687570333931304679746e72513d7332303438"><img src="https://camo.githubusercontent.com/98bbd4cd134b72cb7ff2794e164cc4507ddd5a4e895b3880e6e8e9360b6b4da4/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f4c674c6e794b347862696a5f536d4251645f39622d7a4b4c374e6a46426365584c467239376f2d53397a344a4d7737625a614f34453957355362774a6e5f784f4156753478436b3953653065715368665038596b7a6b614c2d51696c715661364c526151455135683450484c5a4f676d54385a427942562d6545495a457239443349316d42367175356e684965687570333931304679746e72513d7332303438" alt="Login1" data-canonical-src="https://lh6.googleusercontent.com/LgLnyK4xbij_SmBQd_9b-zKL7NjFBceXLFr97o-S9z4JMw7bZaO4E9W5SbwJn_xOAVu4xCk9Se0eqShfP8YkzkaL-QilqVa6LRaQEQ5h4PHLZOgmT8ZByBV-eEIZEr9D3I1mB6qu5nhIehup3910FytnrQ=s2048" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="./images/상품등록.gif"><img src="./images/상품등록.gif" alt="MainPage1" style="width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="./images/"><img src="https://camo.githubusercontent.com/98bbd4cd134b72cb7ff2794e164cc4507ddd5a4e895b3880e6e8e9360b6b4da4/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f4c674c6e794b347862696a5f536d4251645f39622d7a4b4c374e6a46426365584c467239376f2d53397a344a4d7737625a614f34453957355362774a6e5f784f4156753478436b3953653065715368665038596b7a6b614c2d51696c715661364c526151455135683450484c5a4f676d54385a427942562d6545495a457239443349316d42367175356e684965687570333931304679746e72513d7332303438" alt="Login1" data-canonical-src="https://lh6.googleusercontent.com/LgLnyK4xbij_SmBQd_9b-zKL7NjFBceXLFr97o-S9z4JMw7bZaO4E9W5SbwJn_xOAVu4xCk9Se0eqShfP8YkzkaL-QilqVa6LRaQEQ5h4PHLZOgmT8ZByBV-eEIZEr9D3I1mB6qu5nhIehup3910FytnrQ=s2048" style="max-width: 100%;"></a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/98bbd4cd134b72cb7ff2794e164cc4507ddd5a4e895b3880e6e8e9360b6b4da4/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f4c674c6e794b347862696a5f536d4251645f39622d7a4b4c374e6a46426365584c467239376f2d53397a344a4d7737625a614f34453957355362774a6e5f784f4156753478436b3953653065715368665038596b7a6b614c2d51696c715661364c526151455135683450484c5a4f676d54385a427942562d6545495a457239443349316d42367175356e684965687570333931304679746e72513d7332303438"><img src="https://camo.githubusercontent.com/98bbd4cd134b72cb7ff2794e164cc4507ddd5a4e895b3880e6e8e9360b6b4da4/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f4c674c6e794b347862696a5f536d4251645f39622d7a4b4c374e6a46426365584c467239376f2d53397a344a4d7737625a614f34453957355362774a6e5f784f4156753478436b3953653065715368665038596b7a6b614c2d51696c715661364c526151455135683450484c5a4f676d54385a427942562d6545495a457239443349316d42367175356e684965687570333931304679746e72513d7332303438" alt="Login1" data-canonical-src="https://lh6.googleusercontent.com/LgLnyK4xbij_SmBQd_9b-zKL7NjFBceXLFr97o-S9z4JMw7bZaO4E9W5SbwJn_xOAVu4xCk9Se0eqShfP8YkzkaL-QilqVa6LRaQEQ5h4PHLZOgmT8ZByBV-eEIZEr9D3I1mB6qu5nhIehup3910FytnrQ=s2048" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
@@ -82,7 +84,6 @@
 <thead>
 <tr>
 <th align="center">상품 삭제</th>
-<th align="center">찜 취소</th>
 <th align="center">판매자 페이지</th>
 </tr>
 </thead>
