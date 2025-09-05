@@ -3,7 +3,7 @@
 ## 프로젝트 소개
 
 <div> 
-<img src="./public/assets/images/readme_img.png" alt="Cuddle Market Logo" width="100%"/> </div>
+<img  alt="Image" src="https://github.com/user-attachments/assets/6ea2172e-9a39-454d-8e13-461cc12dc075" /> </div>
 <br/>
 <!-- CUDDLE MARKET는 반려동물을 사랑하는 사람들을 위한 반려동물 중고용품 웹 플랫폼입니다.<br/>
 더 이상 사용하지 않는 반려동물 용품을 쉽게 사고팔 수 있고, 다른 반려인들과 따뜻한 커뮤니티를 형성할 수 있습니다.
