@@ -201,5 +201,5 @@
 
 ## More Info
 
-<a href="">📚 Cuddle market Wiki</a><br>
+<a href="https://cuddle-market-fe.vercel.app/">📚 Cuddle market Wiki</a><br>
 <a href="">🔐 Cuddle market Server Repository</a><br>
