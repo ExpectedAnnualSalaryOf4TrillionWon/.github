@@ -68,7 +68,7 @@
 <tbody>
 <tr>
 <td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="./images/필터링.gif"><img src="./images/필터링.gif" alt="Filtered" style="width: 400px;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="./images/상세페이지.gif"><img src="./images/상세페이지.gif" alt="ProductDetail" style="width: 400px;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="./images/상품 상세페이지.gif"><img src="./images/상품 상세페이지.gif" alt="ProductDetail" style="width: 400px;"></a></td>
 </tr>
 </tbody>
 </table>
@@ -96,7 +96,7 @@
 <tbody>
 <tr>
 <td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="./images/상품등록.gif"><img src="./images/상품등록.gif" alt="ProductRegister" style="width: 400px;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="./images/상품수정.gif"><img src="./images/상품수정.gif" alt="ProductUpdate" style="width: 400px;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="./images/상품 수정.gif"><img src="./images/상품 수정.gif" alt="ProductUpdate" style="width: 400px;"></a></td>
 </tr>
 </tbody>
 </table>
