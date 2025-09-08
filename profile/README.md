@@ -188,7 +188,7 @@
 
 ## Document
 
-> <a href="">요구사항 정의서</a><br> > <a href="">플로우 차트</a><br> > <a href="">와이어프레임</a><br> > <a href="">화면정의서</a><br> > <a href="">ERD 문서</a><br> > <a href="">테이블 명세서 문서</a><br> > <a href="">API 문서</a><br>
+> <a href="">요구사항 정의서</a><br> > <a href="https://github.com/ExpectedAnnualSalaryOf4TrillionWon/Cuddle-Market-FE/wiki/Flow-Chart">플로우 차트</a><br> > <a href="">와이어프레임</a><br> > <a href="">화면정의서</a><br> > <a href="">ERD 문서</a><br> > <a href="">테이블 명세서 문서</a><br> > <a href="">API 문서</a><br>
 
 ## More Info
 
