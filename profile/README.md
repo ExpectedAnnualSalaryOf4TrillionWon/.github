@@ -1032,5 +1032,4 @@
 
 ## More Info
 
-<a href="https://cuddle-market-fe.vercel.app/">📚 Cuddle market Wiki</a><br>
-<a href="">🔐 Cuddle market Server Repository</a><br>
+<a href="https://github.com/ExpectedAnnualSalaryOf4TrillionWon/Cuddle-Market-BE">🔐 Cuddle market Server Repository</a><br>
