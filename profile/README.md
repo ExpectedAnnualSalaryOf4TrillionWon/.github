@@ -163,7 +163,7 @@
 </tr>
 </tbody>
 </table>
-<table align="center">
+<table>
 <thead>
 <tr>
 <th align="center"><a href="https://github.com/dirage1"><img src="https://img.shields.io/badge/github-dirage1-blue?style=for-the-badge&logo=github&logoColor=%23fff&labelColor=%23181717" width="100px/" style="max-width: 100%;"></a><br></th>
